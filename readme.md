@@ -1,0 +1,1 @@
+The purpose of this project is to use the .length logic within a for...of loop to calculate the average of the values within an array.
